@@ -4,8 +4,12 @@
 4. George :)
 5. Gysell
 6. Justin
-7. Loois
+7. Luis ;)
 8. Ryan
 9. Rodreego
 10. Sammual
+<<<<<<< HEAD
 11. Stoyan
+=======
+11. Stowyen
+>>>>>>> 5354d8a (Joke for Justin)
