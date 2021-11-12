@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 1. Andee
 2. Baylla
-3. Davved
+3. David
 4. Goorge
 5. Gysell
 6. Justyn
@@ -10,16 +9,3 @@
 9. Rodreego
 10. Sammual
 11. Stowyen
-=======
-Andee
-Baylla
-David
-Goorge
-Gysell
-Justyn
-Loois
-Rian
-Rodreego
-Sammual
-Stowyen
->>>>>>> 2a3a602 (fix(dave): fixed spelling error)
